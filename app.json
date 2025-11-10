@@ -1,11 +1,11 @@
 {
   "expo": {
     "name": "app-start",
+    "scheme": "app-start",
     "slug": "app-start",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "appstart",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
